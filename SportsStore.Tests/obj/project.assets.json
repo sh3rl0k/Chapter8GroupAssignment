@@ -8421,24 +8421,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Matt\\.nuget\\packages\\": {},
+    "C:\\Users\\Jackson\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matt\\source\\repos\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Jackson\\Desktop\\SoftwareAppDevelopmentI\\GroupProject\\Chapter8GroupAssignment\\SportsStore.Tests\\SportsStore.Tests.csproj",
       "projectName": "SportsStore.Tests",
-      "projectPath": "C:\\Users\\Matt\\source\\repos\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
-      "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matt\\source\\repos\\SportsStore\\SportsStore.Tests\\obj\\",
+      "projectPath": "C:\\Users\\Jackson\\Desktop\\SoftwareAppDevelopmentI\\GroupProject\\Chapter8GroupAssignment\\SportsStore.Tests\\SportsStore.Tests.csproj",
+      "packagesPath": "C:\\Users\\Jackson\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jackson\\Desktop\\SoftwareAppDevelopmentI\\GroupProject\\Chapter8GroupAssignment\\SportsStore.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Matt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Jackson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -8450,8 +8453,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Matt\\source\\repos\\SportsStore\\SportsStore\\SportsStore.csproj": {
-              "projectPath": "C:\\Users\\Matt\\source\\repos\\SportsStore\\SportsStore\\SportsStore.csproj"
+            "C:\\Users\\Jackson\\Desktop\\SoftwareAppDevelopmentI\\GroupProject\\Chapter8GroupAssignment\\SportsStore\\SportsStore.csproj": {
+              "projectPath": "C:\\Users\\Jackson\\Desktop\\SoftwareAppDevelopmentI\\GroupProject\\Chapter8GroupAssignment\\SportsStore\\SportsStore.csproj"
             }
           }
         }
